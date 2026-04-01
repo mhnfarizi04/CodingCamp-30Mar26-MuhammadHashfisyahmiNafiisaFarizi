@@ -44,7 +44,7 @@ A modern, responsive web application designed to help users manage their daily f
 
 ---
 
-🧠 AI Collaboration (Kiro AI)
+## 🧠 AI Collaboration (Kiro AI)
 This project was developed with the assistance of Kiro AI to ensure:
 
 Optimal logic for balance protection.
@@ -53,11 +53,11 @@ Best practices for clean and modular code (NFR-1).
 
 Troubleshooting responsive layouts and Chart.js integration.
 
-👤 Author
+## 👤 Author
 Name: Muhammad Hashfisyahmi Nafiisa Farizi
 
 Batch: 30 March 2026
 
 ID: d-9067c98495.d4d854c8-b081-70b3-61a8-92470bec1b2e
 
-Created for ReVou Software Engineering 2026.
+## Created for ReVou Software Engineering 2026.
