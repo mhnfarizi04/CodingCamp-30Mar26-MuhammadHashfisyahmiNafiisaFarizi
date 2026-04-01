@@ -25,8 +25,8 @@ A modern, responsive web application designed to help users manage their daily f
 
 ## 🛠️ Tech Stack
 - **Structure**: HTML5
-- **Styling**: CSS3, Bootstrap 5.3
-- **Scripting**: Vanilla JavaScript, jQuery 3.7
+- **Styling**: CSS5, Bootstrap 5.3
+- **Scripting**: Vanilla JavaScript, jQuery 4.0
 - **Icons & Fonts**: FontAwesome 5, Google Fonts (Inter)
 - **Library**: SweetAlert2 (Pop-ups), Chart.js (Visuals)
 
@@ -41,3 +41,23 @@ A modern, responsive web application designed to help users manage their daily f
 │   └── main.js
 ├── index.html
 └── README.md
+
+---
+
+🧠 AI Collaboration (Kiro AI)
+This project was developed with the assistance of Kiro AI to ensure:
+
+Optimal logic for balance protection.
+
+Best practices for clean and modular code (NFR-1).
+
+Troubleshooting responsive layouts and Chart.js integration.
+
+👤 Author
+Name: Muhammad Hashfisyahmi Nafiisa Farizi
+
+Batch: 30 March 2026
+
+ID: d-9067c98495.d4d854c8-b081-70b3-61a8-92470bec1b2e
+
+Created for ReVou Software Engineering 2026.
