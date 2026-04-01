@@ -6,7 +6,7 @@ A modern, responsive web application designed to help users manage their daily f
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project on GitHub Pages](https://yourusername.github.io/CodingCamp-300326-MuhammadHashfisyahmiNafiisaFarizi/)
+🔗 [View Project on GitHub Pages](https://mhnfarizi04.github.io/CodingCamp-300326-MuhammadHashfisyahmiNafiisaFarizi/)
 
 ---
 
