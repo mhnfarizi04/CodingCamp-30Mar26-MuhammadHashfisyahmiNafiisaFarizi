@@ -41,23 +41,27 @@ A modern, responsive web application designed to help users manage their daily f
 │   └── main.js
 ├── index.html
 └── README.md
+.
+```
 
 ---
 
 ## 🧠 AI Collaboration (Kiro AI)
-This project was developed with the assistance of Kiro AI to ensure:
+This project was developed with the strategic assistance of Kiro AI to ensure:
 
-Optimal logic for balance protection.
+Logical Integrity: Implementing complex validation for balance protection.
 
-Best practices for clean and modular code (NFR-1).
+Architecture: Following best practices for clean and modular code (NFR-1).
 
-Troubleshooting responsive layouts and Chart.js integration.
+UI/UX Refinement: Troubleshooting responsive layouts and Chart.js integration.
+
+---
 
 ## 👤 Author
-Name: Muhammad Hashfisyahmi Nafiisa Farizi
+- Name: Muhammad Hashfisyahmi Nafiisa Farizi
+- Batch: 30 March 2026
+- Kiro Builder ID: d-9067c98495.d4d854c8-b081-70b3-61a8-92470bec1b2e
 
-Batch: 30 March 2026
-
-ID: d-9067c98495.d4d854c8-b081-70b3-61a8-92470bec1b2e
+---
 
 ## Created for ReVou Software Engineering 2026.
